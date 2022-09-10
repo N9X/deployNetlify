@@ -1,7 +1,7 @@
 
         
         
-        window.TEZ_DATA =  function(registerTezPage,preload){
+        export default function(registerTezPage,preload){
             const payload = {"url":"/blog","slots":{},"masterPageSlots":{},"tags":{}}; 
             registerTezPage({
                 components:{},
