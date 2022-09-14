@@ -1,3 +1,0 @@
-export default function(preload){
-            return preload(()=> import('./pre.637984122185990000.js'),["assets/plugin-vue_export-helper.637984122185990000.js","assets/headerblack.component.637984122185990000.js","assets/aboutus.component.637984122185990000.js","assets/investor.component.637984122185990000.css","assets/investor.component.637984122185990000.js","assets/black_header.layout.637984122185990000.js"]);
-    }

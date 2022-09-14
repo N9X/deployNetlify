@@ -1,1 +1,1 @@
-{"slots":{"default":[[{"componentName":"hero"},"0-hero"],[{"componentName":"articles","pagination":true,"dynamicSourcePath":"collections/articles"},"1-articles"],[{"componentName":"help"},"2-help"],["3-feedback"]]},"masterPage":"customlayout"}
+{"slots":{"default":[[{"componentName":"hero"},"0-hero"],[{"componentName":"articles","pagination":true,"dynamicSourcePath":"collections/articles"},"1-articles"],[{"componentName":"toolshome"},"2-toolshome"],["3-help"],["4-feedback"]]},"masterPage":"customlayout"}
