@@ -7,6 +7,6 @@
                 components:{},
                 masterPage:{},
                 payload:payload,
-                postScript: ()=> preload(()=> import('./post.637987868350710000.js'),[])
+                postScript: ()=> preload(()=> import('./post.637988782772750000.js'),[])
             })
         }    
