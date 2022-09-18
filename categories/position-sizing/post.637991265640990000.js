@@ -1,1 +1,0 @@
-import t from"/assets/footer.component.637991265640990000.js";function n(o,e){o({components:{footer:t},masterPage:{},payload:{url:"/categories/position-sizing",slots:{},masterPageSlots:{footer:[{name:"footer",data:{componentName:"footer"},id:"1-footer"}]}}})}export{n as default};
