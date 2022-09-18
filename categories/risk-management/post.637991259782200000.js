@@ -1,0 +1,1 @@
+import e from"/assets/footer.component.637991259782200000.js";function m(o,t){o({components:{footer:e},masterPage:{},payload:{url:"/categories/risk-management",slots:{},masterPageSlots:{footer:[{name:"footer",data:{componentName:"footer"},id:"1-footer"}]}}})}export{m as default};

@@ -1,1 +1,0 @@
-import e from"/assets/footer.component.637988782772750000.js";function s(o,t){o({components:{footer:e},masterPage:{},payload:{url:"/categories/risk-rewards",slots:{},masterPageSlots:{footer:[{name:"footer",data:{componentName:"footer"},id:"1-footer"}]}}})}export{s as default};

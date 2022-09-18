@@ -1,0 +1,1 @@
+import e from"/assets/footer.component.637991259782200000.js";function f(o,t){o({components:{footer:e},masterPage:{},payload:{url:"/categories/diversification",slots:{},masterPageSlots:{footer:[{name:"footer",data:{componentName:"footer"},id:"1-footer"}]}}})}export{f as default};
