@@ -1,1 +1,0 @@
-import t from"/assets/footer.component.637991277081800000.js";function l(o,e){o({components:{footer:t},masterPage:{},payload:{url:"/categories/volatility",slots:{},masterPageSlots:{footer:[{name:"footer",data:{componentName:"footer"},id:"1-footer"}]}}})}export{l as default};
